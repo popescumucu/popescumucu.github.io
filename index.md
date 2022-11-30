@@ -38,4 +38,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Pot folosi AsciiMath în pagini html cu suport **MathJax**
 ### $$\alpha^2+\beta^2$$
 `x_2+grad vec y`
-<a href="pagina1.md"> pagina 1</a>
